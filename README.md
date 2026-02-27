@@ -20,6 +20,8 @@ Support data-driven decision-making for content creators and media organizations
 
 Key Performance Indicators (KPIs)
 
+![image alt[https://github.com/spqdot/Power-BI-Dashboard-You-Tube-Performance-and-Audience-Engagement-Dashboard/blob/main/Power%20BI%20Capstone%20Project.pdf]] 
+
 The dashboard highlights several critical metrics:
 
 Total Uploads: 9M+
