@@ -22,6 +22,7 @@ Key Performance Indicators (KPIs)
 
 ![image alt](https://github.com/spqdot/Power-BI-Dashboard-You-Tube-Performance-and-Audience-Engagement-Dashboard/blob/main/Fig1.png)
 
+![image alt](https://github.com/spqdot/Power-BI-Dashboard-You-Tube-Performance-and-Audience-Engagement-Dashboard/blob/main/Fig%202.png)
 The dashboard highlights several critical metrics:
 
 Total Uploads: 9M+
